@@ -1,6 +1,6 @@
 var adminbase = "https://www.dreamguys.co.in/display/busiapp/";
 
-var adminurl = adminbase + "index.php/json/";
+var adminurl = adminbase + "json/";
 var adminimage = adminbase + "uploads/";
 var adminhauth = adminbase + "index.php/hauth/";
 var imgpath = adminimage + "image?name=";
